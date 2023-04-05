@@ -241,6 +241,11 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p>
+  <strong>Registration:</strong>
+  This workshop is open to the public. To register, please fill out the form at <a href="https://www.nmepscor.org/what-we-do/programs/southeast-nm-college-data-carpentry-workshop">https://www.nmepscor.org/what-we-do/programs/southeast-nm-college-data-carpentry-workshop</a>. Registration will be capped at 25 people.
+  </p>
+
 {% comment %}
 WHO CAN ATTEND?
 
